@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Day2\Function Practice Day 2\Function Practice Day 2\bin\Debug\Function Practice Day 2.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Day2\Function Practice Day 2\Function Practice Day 2\obj\Debug\Function Practice Day 2.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Day2\Function Practice Day 2\Function Practice Day 2\bin\Debug\Function Practice Day 2.exe
+C:\Users\Technologist SP\Documents\GitHub\Day2\Function Practice Day 2\Function Practice Day 2\bin\Debug\Function Practice Day 2.pdb
+C:\Users\Technologist SP\Documents\GitHub\Day2\Function Practice Day 2\Function Practice Day 2\obj\Debug\Function Practice Day 2.exe
+C:\Users\Technologist SP\Documents\GitHub\Day2\Function Practice Day 2\Function Practice Day 2\obj\Debug\Function Practice Day 2.pdb

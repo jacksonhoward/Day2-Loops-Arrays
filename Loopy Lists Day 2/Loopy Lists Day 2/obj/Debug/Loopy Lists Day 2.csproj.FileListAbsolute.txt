@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Day2\Loopy Lists Day 2\Loopy Lists Day 2\bin\Debug\Loopy Lists Day 2.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Day2\Loopy Lists Day 2\Loopy Lists Day 2\bin\Debug\Loopy Lists Day 2.exe
+C:\Users\Technologist SP\Documents\GitHub\Day2\Loopy Lists Day 2\Loopy Lists Day 2\bin\Debug\Loopy Lists Day 2.pdb
+C:\Users\Technologist SP\Documents\GitHub\Day2\Loopy Lists Day 2\Loopy Lists Day 2\obj\Debug\Loopy Lists Day 2.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Day2\Loopy Lists Day 2\Loopy Lists Day 2\obj\Debug\Loopy Lists Day 2.exe
+C:\Users\Technologist SP\Documents\GitHub\Day2\Loopy Lists Day 2\Loopy Lists Day 2\obj\Debug\Loopy Lists Day 2.pdb
